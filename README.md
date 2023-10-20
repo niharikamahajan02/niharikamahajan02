@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niharika Mahajan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikamahajan02&label=Profile%20views&color=0e75b6&style=flat" alt="niharikamahajan02" /> </p>
-
 - 🔭 I’m currently working on **MERN stack**
 
 - 👯 I’m looking to for full time opportunities **as a frontend/Fullstack Dev , SDE**
