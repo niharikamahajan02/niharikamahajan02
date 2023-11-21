@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 👯 I’m looking to for full time opportunities **as a frontend/Fullstack Dev , SDE**
+- 👯 I’m looking for full time opportunities **as a Frontend/Fullstack Dev , SDE**
 
 - 🤓 I'm interested in **Web Development and Problem Solving**
 
